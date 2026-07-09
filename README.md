@@ -1,6 +1,6 @@
 #  Pipeline Orchestrator: Real-Time Distributed ETL UI & Alert Engine
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://Pipeline-Orchestrator.streamlit.app/)
+[!(https://Pipeline-Orchestrator.streamlit.app/)]
 
 Let’s be honest: tracking distributed ETL data pipelines at scale can quickly turn into an absolute nightmare. When a data migration fails or a database connection times out at 3:00 AM, digging through millions of lines of raw server text logs is the last thing you want to do.
 
